@@ -1,4 +1,4 @@
-<!-- ![logo]() -->
+![Ambition](https://github.com/Justinfungi/Justinfungi/blob/main/METAVERSE.jpg)
 
 <h1 align="center">Hi 👋, I'm Jus</h1>
 <h3 align="center">AI engineer</h3>
