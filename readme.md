@@ -29,6 +29,8 @@
 <ul>Webscraping</ul>
 <ul></ul>
 <ul></ul>
+<h3>Website</h3>
+<ul>HTML/CSS</ul>
 
 <!--/session 3-->
 
