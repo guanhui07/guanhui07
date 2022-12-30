@@ -22,7 +22,7 @@
 <ul>Computer Vision: CNN, Transformer</ul>
 <ul>Natural Language Processing: ...</ul>
 <h3>Metaverse</h3>
-<ul>Base: Unity</ul>
+<ul>Base: Unity, Maya</ul>
 <ul>UI: HTML/CSS</ul>
 <ul></ul>
 <h3>Fintech</h3>
