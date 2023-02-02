@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## My Organizations
 
-### [guanhui07](https://github.com/guanhui07) Projects
+###  Projects
 
 |  |  |
 |--------|-------|
