@@ -56,4 +56,19 @@ Here are some ideas to get you started:
 [redis_card]: https://github-readme-stats.vercel.app/api/pin/?username=guanhui07&repo=redis&show_owner=true
 [database_card]: https://github-readme-stats.vercel.app/api/pin/?username=guanhui07&repo=database&show_owner=true
   
-  
+ <a href="https://github.com/guanhui07"><img src="https://komarev.com/ghpvc/?username=guanhui07" alt="guanhui07" /></a>
+<a href="https://guanhui07.github.io/blog/"><img src="https://komarev.com/ghpvc/?username=guanhui07" alt="Blog" /></a>
+<a href="mailto:guanhui07@gmail.com"><img src="https://komarev.com/ghpvc/?username=guanhui07" alt="Email" /></a>
+<a href="https://github.com/guanhui07?tab=followers"><img src="https://img.shields.io/github/followers/guanhui07"></a>
+<a href="https://twitter.com/intent/follow?screen_name=guanhui07"><img src="https://img.shields.io/twitter/follow/guanhui07.svg?style=social&label=Follow%20@guanhui07" alt="Follow on Twitter"></a>
+
+<!-- <details>  
+
+[![GitHub Snake Light](https://raw.githubusercontent.com/guanhui07/output/github-contribution-grid-snake.svg)](https://github.com/guanhui07) 
+
+<summary> View my contributions in 3D</summary>
+
+![](https://raw.githubusercontent.com/guanhui07/guanhui07/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/guanhui07/guanhui07/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
+</details>   -->
