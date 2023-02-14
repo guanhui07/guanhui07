@@ -32,14 +32,20 @@ Here are some ideas to get you started:
 </p>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guanhui07&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"> -->
 
+## Operating System 
+
+[![macOS](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
+[![centOS](https://img.shields.io/badge/-CentOS-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+
+
+
 ## 🚀💻 Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![Go](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go)
-  
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 
 ###  Projects
 
