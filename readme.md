@@ -68,7 +68,7 @@ Here are some ideas to get you started:
  <a href="https://github.com/guanhui07"><img src="https://komarev.com/ghpvc/?username=guanhui07" alt="guanhui07" /></a>
 <a href="https://guanhui07.github.io/blog/"><img src="https://img.shields.io/badge/Blog-https://guanhui07.github.io/blog/-blue" alt="Blog" /></a>
 <a href="mailto:guanhui07@gmail.com"><img src="https://img.shields.io/badge/Email-guanhui07@gmail.com-blue%22%20alt=%22Email" alt="Email" /></a>
-<a href="https://github.com/guanhui07?tab=followers"><img src="https://img.shields.io/github/followers/guanhui07"></a>
+<!-- <a href="https://github.com/guanhui07?tab=followers"><img src="https://img.shields.io/github/followers/guanhui07"></a> -->
 <a href="https://twitter.com/intent/follow?screen_name=guanhui07"><img src="https://img.shields.io/twitter/follow/guanhui07.svg?style=social&label=Follow%20@guanhui07" alt="Follow on Twitter"></a>
 
 [![GitHub Snake Light](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg)](https://github.com/guanhui07)
