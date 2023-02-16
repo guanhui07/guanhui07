@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-💬 You can contact me on [Twitter](https://twitter.com/guanhui07) or [Email](mailto:guanhui07@gmail.com).
+💬 You can contact me on [Twitter](https://twitter.com/guanhui07) or [Email:guanhui07@gmail.com](mailto:guanhui07@gmail.com)
 
 
 
