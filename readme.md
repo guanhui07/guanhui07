@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## Operating System 
 
 [![macOS](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
-[![centOS](https://img.shields.io/badge/-CentOS-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+[![centOS](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)](https://www.centos.org/)
 
 
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-  ![Go](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go)
+  ![Golang](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
   [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
