@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![Golang](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go)
+   ![Dotnet](https://img.shields.io/badge/dotnet-red?style=flat-square&logo=dotnet)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
   [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
