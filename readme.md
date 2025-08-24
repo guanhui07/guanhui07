@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Earth
-- 🌱 I’m currently learning Go,PHP
+- 🌱 I’m currently learning Go,PHP,Dotnet,Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎉 Welcome to my GitHub profile,I'm MinghuiYang, it's great to meet you here!
 
-👨🏻‍💻 I'm Luffy - a PHP/Go developer and Open source contributor.
+👨🏻‍💻 I'm Luffy - a Software Developer and Open source contributor.
 
 
 
